@@ -20,7 +20,7 @@ def return_data():
     # but since no db or any real storage is implemented I'm just
     # returning data from a text file that contains json elements
 
-    with open("events.json", "r") as input_data:
+    with open("flaskcalendar/events.json", "r") as input_data:
         # you should use something else here than just plaintext
         # check out jsonfiy method or the built in json module
         # http://flask.pocoo.org/docs/0.10/api/#module-flask.json
