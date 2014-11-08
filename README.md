@@ -3,10 +3,10 @@ A basic calendar with flask and fullcalendar.io
 
 To run:
 ------
-virtuanenv env
-source env/bin/activate
-pip install -r requirements.txt
-python flaskcalendar/main.py
+- virtuanenv env
+- source env/bin/activate
+- pip install -r requirements.txt
+- python flaskcalendar/main.py
 
 
 Thanks to:
