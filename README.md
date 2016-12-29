@@ -1,12 +1,15 @@
-A basic calendar with flask and fullcalendar.io
+A basic calendar with Flask and fullcalendar.io
 
 
 To run:
 ------
-- virtuanenv env
-- source env/bin/activate
-- pip install -r requirements.txt
-- python flaskcalendar/main.py
+    $ virtualenv env
+    
+    $ source env/bin/activate
+    
+    $ pip install -r requirements.txt
+    
+    $ python flaskcalendar/main.py
 
 
 Thanks to:
